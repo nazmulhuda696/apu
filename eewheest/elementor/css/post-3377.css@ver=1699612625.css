@@ -1,0 +1,24 @@
+.elementor-3377 .elementor-element.elementor-element-ecee06b{padding:100px 100px 100px 100px;}.elementor-3377 .elementor-element.elementor-element-ee3ba5d{text-align:center;}.elementor-3377 .elementor-element.elementor-element-ee3ba5d .elementor-heading-title{color:#000000;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-3377 .elementor-element.elementor-element-83d9688{padding:0px 0px 100px 0px;}@media(max-width:767px){.elementor-3377 .elementor-element.elementor-element-ee3ba5d .elementor-heading-title{font-size:16px;}}/* Start custom CSS for heading, class: .elementor-element-ee3ba5d */.gradient-tex h1{
+	background-image: linear-gradient(225deg,
+			
+			#039249 19%,
+			#e50462 49%,
+			#f2da09 87%,
+			#039249 100%);
+	background-size: auto auto;
+	background-clip: border-box;
+	background-size: 200% auto;
+	color: #f2da09;
+	background-clip: text;
+	text-fill-color: transparent;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: textanim 3s linear infinite;
+	display: inline-block;
+}
+
+@keyframes textanim {
+	to {
+		background-position: 200% center;
+	}
+}/* End custom CSS */
